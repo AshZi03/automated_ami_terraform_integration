@@ -1,0 +1,1 @@
+# automated_ami_terraform_integration
