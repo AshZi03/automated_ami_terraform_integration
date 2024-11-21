@@ -1,3 +1,4 @@
+#this  is for container image creation
 packer {
   required_plugins {
     docker = {
